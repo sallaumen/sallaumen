@@ -30,7 +30,7 @@ In 2022, I co-presented **“Comparing Elixir and Python for Simple Neural Netwo
 
 ## Connect
 
-* [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+* [LinkedIn](https://www.linkedin.com/in/lucas-c-tavano-1b0092169/)
 * [GitLab](https://gitlab.com/sallaumen)
 * [lucas.c.tavano@gmail.com](mailto:lucas.c.tavano@gmail.com)
 
