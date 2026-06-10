@@ -1,26 +1,47 @@
-# 👋 Hello, I'm Tavano!
+# Lucas Tavano
 
-## 🚀 Senior Software Engineer | Elixir Enthusiast | Fintech Specialist
+**Senior Software Engineer · Elixir · Fintech**
 
-With over a decade of software development experience, I've evolved from PHP foundations to becoming a passionate Elixir developer, specializing in building robust, scalable financial systems.
+I'm a backend engineer with 8+ years of experience, mostly working in fintech over the last few years. My work has been around payment systems, financial data processing, AP automation, and backend platforms that need to be reliable, observable, and easy to evolve.
 
-### 🛠️ **Career Journey**
+## What I usually work with
 
-**🔄 From PHP to Elixir**  
-Started my career building web applications with PHP, learning the fundamentals of server-side development and database design. Over the years, I discovered the power of functional programming and the Actor Model, which led me to fall in love with Elixir and the BEAM ecosystem.
+* Backend systems with **Elixir/OTP** and **Phoenix**
+* Payment flows, financial APIs, and integrations
+* Event-driven systems and async processing
+* Data consistency, resilience, and observability
+* Clean code, automated tests, and functional programming
 
-**💳 Fintech Expertise**  
-The last few years have been dedicated to the fintech industry, where I've contributed to building secure, high-throughput payment systems and financial infrastructure that serves millions of users.
+## Background
 
-**🎮 Current Projects**  
-- **OTP Invaderx**: A Space Invaders clone built entirely with OTP principles, showcasing process supervision, fault tolerance, and real-time gameplay using Phoenix LiveView
+I started out with PHP and embedded Linux, then moved to Elixir in 2019 after getting more interested in functional programming and the BEAM’s approach to concurrency and fault tolerance.
 
-### 📫 **Let's Connect**
+Since then, I’ve been focused on fintech:
 
-- 💼 Open to discussing Elixir, OTP, and fintech opportunities
-- 🤝 Always happy to mentor developers transitioning to functional programming
-- ☕ Love chatting about system design, fault tolerance, and the beauty of the Actor Model
+* **Vic.ai**: AP automation, invoice processing, payment orchestration, and accounting integrations
+* **SWAP**: payment authorizations, real-time data processing, and technical leadership as an Elixir Specialist
+* **EBANX**: monitoring financial systems and working with large-scale data pipelines
+
+In 2022, I co-presented **“Comparing Elixir and Python for Simple Neural Networks”** at **CodeBEAM America**, benchmarking Nx against Keras.
+
+## Projects
+
+* **OTP Invaderx**: a Space Invaders clone built with OTP ideas like supervision trees, fault tolerance, and real-time gameplay with Phoenix LiveView
+
+## Connect
+
+* [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+* [GitLab](https://gitlab.com/sallaumen)
+* [lucas.c.tavano@gmail.com](mailto:lucas.c.tavano@gmail.com)
+
+Always happy to talk about Elixir, distributed systems, fintech, or mentoring developers getting into functional programming.
 
 ---
 
-*"Let it crash" isn't just a motto—it's a philosophy that changed how I think about building resilient software.*
+> “The only way to go fast is to go well.”
+>
+> Robert C. Martin
+
+> “Make actions explicit, keep calculations pure.”
+>
+> Inspired by Eric Normand, *Grokking Simplicity*
